@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6618b913-5bf7-4cb3-a88b-d9d55b7c9e62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p1-main/m1-ui/u1-app/App.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p1-main/m1-ui/u1-app/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h1/AlternativeMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h1/HW1.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h1/Message.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h1/Message.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h1/tests/Message.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h10/HW10.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h10/bll/loadingReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h10/bll/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h11/HW11.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h12/HW12.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h12/HW12.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h12/bll/themeReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/Affair.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/Affairs.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/Affairs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/AlternativeAffairs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/HW2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/tests/deleteAffair.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h2/tests/filterAffairs.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h3/AlternativeGreeting.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h3/Greeting.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h3/Greeting.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h3/GreetingContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h3/HW3.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/HW4.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/HW4.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c1-SuperInputText/AlternativeSuperInputText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c2-SuperButton/AlternativeSuperButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c3-SuperCheckbox/AlternativeSuperCheckbox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h5/HW5.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h5/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h5/Routes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h5/pages/Error404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h5/pages/PreJunior.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h6/HW6.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h6/common/c4-SuperEditableSpan/AlternativeSuperEditableSpan.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h6/localStorage/localStorage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h7/HW7.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h7/common/c5-SuperSelect/AlternativeSuperSelect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h7/common/c6-SuperRadio/AlternativeSuperRadio.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h8/HW8.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h8/bll/homeWorkReducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h9/AlternativeClock.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h9/Clock.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/p2-homeworks/h9/HW9.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksIgnat/simple-react-homeworks/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23KFYGs9ZjO5uJKtRgcX9gGIwBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeworksIgnat/homework" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6618b913-5bf7-4cb3-a88b-d9d55b7c9e62" name="Changes" comment="" />
+      <created>1641474918531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641474918531</updated>
+      <workItem from="1641474920694" duration="45000" />
+    </task>
+    <servers />
+  </component>
+</project>
