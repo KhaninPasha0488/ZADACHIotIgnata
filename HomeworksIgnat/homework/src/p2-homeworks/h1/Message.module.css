@@ -1,3 +1,41 @@
 .message {
+    border: 1px black solid;
+    padding-left: 10px;
+    width: 180px;
+    background-color: aquamarine;
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 20px 20px 20px 0;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 8px -1px black;
+
+}
+.imges {
+    border-radius: 30px;
+    width: 40px;
+    display:inline-block;
+    border: 1px black solid;
+    margin-top: 50px;
+
+}
+.names {
+    font-family:Halvetica;
+    font-style: unset;
+    color: blue;
+    font-size: 0.8em;
+
+
+}
+.text {
+    padding-left: 25px;
+    padding-top: 5px;
+
+}
+.times {
+    padding-left: 120px;
+    color: rgba(46,84,134,0.5);
+
+}
+.messagebloc{
 
 }
