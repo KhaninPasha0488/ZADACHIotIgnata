@@ -1,3 +1,13 @@
 .someClass {
+    margin-left: 100px;
 
+}
+.comLine{
+    display:flex;
+}
+.spans{
+    width: 130px;
+}
+.spansi{
+    width: 70px;
 }
