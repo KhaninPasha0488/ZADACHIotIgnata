@@ -13,12 +13,19 @@ function HW4() {
             alert('введите текст...')
         } else {
             alert(text) // если нет ошибки показать текст
+            setText("")
         }
     }
 
     const [checked, setChecked] = useState<boolean>(false)
     const testOnChange = (e: ChangeEvent<HTMLInputElement>) => setChecked(e.currentTarget.checked)
+    const onChangeChecked = (checked: boolean) => {
+       if(checked) {
+           setChecked(true)
 
+        }
+
+    }
     return (
         <div>
             <hr/>
@@ -30,11 +37,14 @@ function HW4() {
                     onChangeText={setText}
                     onEnter={showAlert}
                     error={error}
+
                     // spanClassName={s.testSpanError}
                 />
 
                 <SuperInputText
                     className={s.blue} // проверьте, рабоет ли смешивание классов
+                    onEnter={showAlert}
+
                 />
 
                 {/*----------------------------------------------------*/}
@@ -58,7 +68,8 @@ function HW4() {
 
                 <SuperCheckbox
                     checked={checked}
-                    onChangeChecked={setChecked}
+                    onChangeChecked={onChangeChecked}
+
                 >
                     some text {/*// этот текст попадёт в children*/}
                 </SuperCheckbox>
