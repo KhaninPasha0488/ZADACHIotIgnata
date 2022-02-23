@@ -1,0 +1,32 @@
+.active{
+    color: red;
+
+}
+.link{
+
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    border: aqua solid 1px;
+    background: khaki;
+}
+.link:hover {
+    color: aqua;
+}
+.block {
+
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    background: goldenrod;
+}
+.header {
+    display: flex;
+    width: 280px;
+    transition-duration: 500ms;
+    transform: translate(-220px);
+}
+.header:hover {
+    transition-duration: 500ms;
+    transform: translate(0);
+}
