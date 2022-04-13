@@ -1,0 +1,10 @@
+.select{
+    width: 100px;
+    padding: 5px;
+    padding-right: 30px;
+
+    cursor: pointer;
+
+    background-color: darkgrey;
+    border: 2px inset goldenrod;
+}
