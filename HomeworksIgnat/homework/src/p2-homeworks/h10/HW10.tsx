@@ -1,17 +1,19 @@
-import React, {useState} from 'react'
+import React  from 'react'
 import SuperButton from '../h4/common/c2-SuperButton/SuperButton'
 import s from './HW10.module.css'
+import {useDispatch, useSelector} from "react-redux";
+import {AppStoreType} from "./bll/store";
+import {loadingAC} from "./bll/loadingReducer";
 function HW10() {
-    // useSelector, useDispatch
-    const [loading, setLoadings]  = useState(false)
-// const loading = false
+    const isLoading = useSelector<AppStoreType,boolean>(state => state.loading.isLoading)
+   const dispatch = useDispatch()
+//     const [loading, setLoadings]  = useState(false)
+// // const loading = false
     const setLoading = () => {
-        setLoadings(true)
-        setTimeout(()=>setLoadings(false),2000,)
+        dispatch(loadingAC(true))
+
+        setTimeout(()=>dispatch(loadingAC(false)),2000,)
     }
-
-        // dispatch
-
 
 
 
@@ -21,7 +23,7 @@ function HW10() {
             homeworks 10
 
             {/*should work (должно работать)*/}
-            {loading
+            {isLoading
                 ? (
                     <div className={s.preloader}>
                         <div className={s.preloader__row}>
