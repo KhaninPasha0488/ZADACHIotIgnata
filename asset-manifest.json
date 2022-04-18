@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ZADACHIotIgnata/static/css/main.a668fbde.css",
-    "main.js": "/ZADACHIotIgnata/static/js/main.b12d16bb.js",
+    "main.css": "/ZADACHIotIgnata/static/css/main.aff91123.css",
+    "main.js": "/ZADACHIotIgnata/static/js/main.eeb34f63.js",
     "index.html": "/ZADACHIotIgnata/index.html",
-    "main.a668fbde.css.map": "/ZADACHIotIgnata/static/css/main.a668fbde.css.map",
-    "main.b12d16bb.js.map": "/ZADACHIotIgnata/static/js/main.b12d16bb.js.map"
+    "main.aff91123.css.map": "/ZADACHIotIgnata/static/css/main.aff91123.css.map",
+    "main.eeb34f63.js.map": "/ZADACHIotIgnata/static/js/main.eeb34f63.js.map"
   },
   "entrypoints": [
-    "static/css/main.a668fbde.css",
-    "static/js/main.b12d16bb.js"
+    "static/css/main.aff91123.css",
+    "static/js/main.eeb34f63.js"
   ]
 }
