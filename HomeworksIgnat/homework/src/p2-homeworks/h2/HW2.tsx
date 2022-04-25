@@ -20,7 +20,6 @@ const defaultAffairs: Array<AffairType> = [ // need to fix any
     {_id: 5, name: 'html & css', priority: 'middle'},
 ]
 
-// pure helper functions
 export const filterAffairs = (affairs: Array<AffairType>, filter: string): any => { // need to fix any
     if (filter === 'all') return affairs
     else if (filter === "low") return affairs.filter(a => a.priority === "low")
@@ -47,7 +46,6 @@ function HW2() {
             <hr/>
             homeworks 2
 
-            {/*should work (должно работать)*/}
             <Affairs
                 data={filteredAffairs}
                 setFilter={setFilter}
@@ -55,7 +53,6 @@ function HW2() {
              filter={filter}/>
 
             <hr/>
-            {/*для личного творчества, могу проверить*/}
             {/*<AlternativeAffairs/>*/}
             <hr/>
         </div>
